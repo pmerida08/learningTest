@@ -1,0 +1,7 @@
+-r requirements.txt
+# Development dependencies for the project
+pytest
+pytest-asyncio
+httpx
+black
+ruff
